@@ -1,2 +1,2 @@
 # sublime-build-system
-interpretor in sublime
+compiler and interpretor in sublime3

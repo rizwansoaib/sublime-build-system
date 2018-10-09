@@ -1,4 +1,21 @@
-1. sudo apt-get install sbcl
+*first-method:
+run in terminal sudo apt-get install sbcl
+
+Go sublime tools>build System>new build system and Enter these lines
+
+{
+	"cmd": ["gnome-terminal -e 'bash -c \"sbcl --load $file;echo;echo Press ENTER to exit; read line\"'"],"shell": true,
+	"selector": "source.lisp"
+
+
+
+}
+
+Save as lisp.sublime-build 
+
+**Second Method:
+
+1. run in terminal sudo apt-get install sbcl
 
 2. Download sublime repl from prefence>package-control-install package
 3. Go and edit /home/.config/sublime-text-3/Packages/SublimeREPL/config/CommonLisp/Main.sublime-menu

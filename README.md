@@ -15,6 +15,11 @@ Compiler and Interpretor in sublime3 run directly from Sublime for linux must pr
 # JAVA
 ![screenshot from 2018-10-13 15-30-46](https://user-images.githubusercontent.com/29729380/46904304-c3b1ec80-ceff-11e8-82d0-412c1318efe7.png)
 
+# JAVASCRIPT
+
+![js](https://user-images.githubusercontent.com/29729380/55285355-e483d680-53a7-11e9-9ff9-c8e688db665f.png)
+
+
 # LISP
 
      sudo apt-get install sbcl

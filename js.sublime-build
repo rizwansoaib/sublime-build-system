@@ -1,0 +1,4 @@
+{
+    "cmd": ["gnome-terminal -e 'bash -c \"node $file;echo;echo Press Enter To Exit;read line\"'"],"shell":true,
+    "selector": "source.js"
+}

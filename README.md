@@ -1,5 +1,5 @@
 # sublime-build-system
-compiler and interpretor in sublime3 for linux
+Compiler and Interpretor in sublime3 run directly from Sublime for linux must preinstalled compiler and interpretor in System
 # Python3 
 ![screenshot from 2018-10-13 15-26-08](https://user-images.githubusercontent.com/29729380/46904303-c3b1ec80-ceff-11e8-89b6-30f4d7ab6561.png)
 # C and C++

@@ -3,6 +3,7 @@ Compiler and Interpretor in sublime3 run directly from Sublime for linux must pr
 # Python3 
 ![screenshot from 2018-10-13 15-26-08](https://user-images.githubusercontent.com/29729380/46904303-c3b1ec80-ceff-11e8-89b6-30f4d7ab6561.png)
 # C and C++
+      sudo apt-get install g++
 ![screenshot from 2018-10-13 15-36-36](https://user-images.githubusercontent.com/29729380/46904305-c44a8300-ceff-11e8-919a-3bfcefab7ab1.png)
 # JAVA
 ![screenshot from 2018-10-13 15-30-46](https://user-images.githubusercontent.com/29729380/46904304-c3b1ec80-ceff-11e8-82d0-412c1318efe7.png)

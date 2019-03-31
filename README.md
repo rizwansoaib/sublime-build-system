@@ -8,5 +8,8 @@ compiler and interpretor in sublime3 for linux
 ![screenshot from 2018-10-13 15-30-46](https://user-images.githubusercontent.com/29729380/46904304-c3b1ec80-ceff-11e8-82d0-412c1318efe7.png)
 
 # LISP
+
+     sudo apt-get install sbcl
+   
 ![screenshot from 2018-10-13 15-47-56](https://user-images.githubusercontent.com/29729380/46904306-c44a8300-ceff-11e8-990f-3dd9e505cbe0.png)
 ![screenshot from 2018-10-13 15-48-52](https://user-images.githubusercontent.com/29729380/46904307-c44a8300-ceff-11e8-9559-c29c50c6c1e8.png)

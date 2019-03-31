@@ -1,0 +1,7 @@
+
+{
+	"cmd": ["gnome-terminal -e 'bash -c \"sbcl --load $file;echo;echo Press ENTER to exit; read line\"'"],"shell": true,
+	"selector": "source.lisp"
+
+
+}

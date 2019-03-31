@@ -1,6 +1,5 @@
 # Sublime-Build-System
 [![LINUX](https://img.shields.io/badge/Supported%20OS-Linux-green.svg)](https://www.linux.org/pages/download/)
-[![follow me](https://img.shields.io/github/followers/rizwansoaib.svg?label=Follow%20me&style=social)](https://github.com/rizwansoaib/)
 
 
 

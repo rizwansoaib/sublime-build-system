@@ -1,11 +1,18 @@
 # Sublime-Build-System
 Compiler and Interpretor in sublime3 run directly from Sublime for linux must preinstalled compiler and interpretor in System
 
-           1.Go to ~/.config/sublime-text-3/Packages/User  directory
-           2.Paste  .sublime-build file 
-           3.Go into Sublime Programs Tools>Build Systems (You will See list)
-           4.Choose Automatic or Default
-           5.Build and Run Programs From ctrl+Shift+B 
+
+## Installation 
+            git clone https://github.com/rizwansoaib/sublime-build-system.git
+            cd sublime-build-system 
+            chmod +x install.sh
+            ./install.sh
+            
+            
+
+            Go into Sublime Programs Tools>Build Systems (You will See list)
+            Choose Automatic or Default
+            Build and Run Programs From ctrl+Shift+B 
 
 # Python3 
 ![screenshot from 2018-10-13 15-26-08](https://user-images.githubusercontent.com/29729380/46904303-c3b1ec80-ceff-11e8-89b6-30f4d7ab6561.png)

@@ -1,4 +1,7 @@
 # Sublime-Build-System
+[![LINUX](https://img.shields.io/badge/Supported%20OS-Linux-green.svg)](https://www.linux.org/pages/download/)
+
+
 Compiler and Interpretor in sublime3 run directly from Sublime for linux must preinstalled compiler and interpretor in System
 
 

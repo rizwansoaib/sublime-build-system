@@ -1,0 +1,4 @@
+{
+"cmd": ["gnome-terminal -e 'bash -c \"php $file;echo;echo Press ENTER to exit; read line\"'"],"shell": true,
+"selector": "source.php"
+}

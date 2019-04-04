@@ -1,0 +1,6 @@
+{
+"cmd": ["gnome-terminal -e 'bash -c \"firefox http://127.0.0.1:8001;php -S 127.0.0.1:8001 $file ;echo;read line\"'"],"shell": true,
+
+
+"selector": "source.php"
+}

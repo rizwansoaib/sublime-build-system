@@ -16,8 +16,6 @@ Compiler and Interpretor in sublime3 run directly from Sublime for linux must pr
             
             
 
-            Go into Sublime Programs Tools>Build Systems (You will See list)
-            Choose Automatic or Default
             Build and Run Programs From ctrl+Shift+B 
 
 # Python3 

@@ -5,7 +5,7 @@
 
 
 
-Compiler and Interpretor in sublime3 run directly from Sublime for linux must preinstalled compiler and interpretor in System
+Compiler and Interpretor in sublime3 run directly from Sublime for linux script also installed C,C++,Java,Python compiler and interpretor for other Prograaming languages must preinstalled compiler and interpretor in System
 
 
 ## Installation 

@@ -1,5 +1,8 @@
 # Sublime-Build-System
-[![LINUX](https://img.shields.io/badge/Supported%20OS-Linux-green.svg)](https://www.linux.org/pages/download/)
+[![LINUX](https://img.shields.io/badge/Supported%20OS-Linux-green.svg)](https://www.linux.org/pages/download/) [![star this repo](http://githubbadges.com/star.svg?user=rizwansoaib&repo=sublime-build-system)](https://github.com/rizwansoaib/sublime-build-system)
+[![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=sublime-build-system)](http://github.com/rizwansoaib/sublime-build-system/fork)
+
+
 
 
 
